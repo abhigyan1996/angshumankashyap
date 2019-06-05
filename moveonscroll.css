@@ -1,0 +1,22 @@
+#object {
+    position: fixed;
+    top:0%;
+    height: 30px;
+    width: 30px;
+    border-radius:5px;
+    background: green;
+}
+
+
+.try{
+	background: red;
+	margin-left: 4.5vw;
+	margin-top: 164vh;
+	max-width:93.75vw;
+	min-width:93.75vw;
+	max-height:82vh;
+	min-height:82vh;
+	width:93.75vw;
+	height:82vh;
+	cursor: url(http://cur.cursors-4u.net/cursors/cur-2/cur220.cur),auto;
+}
