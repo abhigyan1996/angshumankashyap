@@ -1,0 +1,84 @@
+body {
+  overflow-x: hidden;
+}
+
+.text {
+  position: fixed;
+  width: 460px;
+  height: 90px;
+  top: 50%;
+  margin-top: -45px;
+  left: 50%;
+  margin-left: -230px;
+}
+
+.boy {
+  display: block;
+  position: absolute;
+}
+
+
+.jonathan {
+  width: 22vw;
+  height: 55vh;
+  position: absolute;
+}
+
+.harry {
+  width: 15vw;
+  height: 35vh;
+  position: absolute;
+  margin-top: 0vh;
+  opacity:1;
+}
+
+.building1 {
+  opacity: 0.4;
+  margin-top: 20vh;
+  width: 60vw;
+  height: 50vh;
+  position: absolute;
+}
+
+.building2 {
+  margin-left: 15vw;
+  margin-top: 30vh;
+  opacity: 0.3;
+  width: 60vw;
+  height: 50vh;
+  position: absolute;
+}
+.lightning {
+  opacity: 0.3;
+  margin-left:-17vw;
+  margin-top: -35vh;
+  width: 15vw;
+  height: 80vh;
+  position: absolute;
+}
+.stars{
+  opacity: 0.5;
+  margin-left:10vw;
+  margin-top: -12vh;
+  width: 20vw;
+  height: 15vh;
+  position: absolute;
+}
+
+.logos{
+  margin-left:35vw;
+  margin-top: -10vh;
+  width:52vw;
+  height:32vh;
+  position: absolute;
+  opacity:1;
+}
+
+.ordernow{
+  color: #4d4d4d;
+  margin-left:48.7vw;
+  margin-top:5vh;
+  position: absolute;
+  font-family:'Raleway';
+  font-size: 1.5vw;
+}
